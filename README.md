@@ -1,2 +1,2 @@
-# animaltopia
+# Animal Topia
 Animal Topia
