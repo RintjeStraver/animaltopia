@@ -4,6 +4,7 @@ Last updated: November 20th, 2021
 This privacy policy governs your use of the software application Animal Topia (“Application”) for mobile devices that was created by Bita Games. The Application is a picture matching game.
  
 **What information does the Application obtain and how is it used?**
+
 _User Provided Information _
 
 The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
