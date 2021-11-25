@@ -19,6 +19,8 @@ _Automatically Collected Information_
 
 In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
 
+We share data with Google Inc, who provide a login service. You can find their privacy policy at https://google.com/policies/privacy.
+
 We use PlayFab to collect and store player information. We collect information from our users so that we can create their PlayFab game accounts, operate the game and enhance users' game experience. The collected information is transmitted and stored to servers in the US.
 
 PlayFab is committed to being General Data Protection Regulation (GDPR) compliant and is certificiated under the EU-US Privacy Shield Framework. You can find further information regarding your rights in terms of service of PlayFab at https://playfab.com/terms/.
