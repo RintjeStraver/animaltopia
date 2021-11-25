@@ -23,6 +23,8 @@ We use PlayFab to collect and store player information. We collect information f
 
 PlayFab is committed to being General Data Protection Regulation (GDPR) compliant and is certificiated under the EU-US Privacy Shield Framework. You can find further information regarding your rights in terms of service of PlayFab at https://playfab.com/terms/.
 
+We use Unity Analytics to analyze player behaviors. You can find further information regarding your rights in terms of service of Unity Analytics at https://unity3d.com/legal/privacy-policy.
+
 _Data Retention Policy, Managing Your Information_
 
 We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@applicationsite.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly. 
