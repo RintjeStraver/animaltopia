@@ -1,5 +1,5 @@
 # Animal Topia: Privacy Policy
-Last updated: November 20th, 2021
+Last updated: November 25th, 2021
 
 This privacy policy governs your use of the software application Animal Topia (“Application”) for mobile devices that was created by Bita Games. The Application is a picture matching game.
  
